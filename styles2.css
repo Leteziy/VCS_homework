@@ -1,0 +1,39 @@
+.red1 {
+    color:red;
+}
+.red2 {
+    color: red;
+}
+.element1 {
+    color: blue;
+}
+.element2 {
+    color: blueviolet;
+}
+.element3 {
+    color: aqua;
+}
+.element4 {
+    color: fuchsia;
+}
+.word1 {
+    font-size: x-large;
+}
+.word2 {
+    font-size: large;
+}
+.word3 {
+    font-size: larger
+}
+.word4 {
+    font-size: medium
+}
+.word5 {
+    font-size: smaller;
+}
+.word6 {
+    font-size: small;
+}
+.word7 {
+    font-size: x-small;
+}
